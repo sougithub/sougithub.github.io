@@ -1,0 +1,3 @@
+[submodule "god_of_walks"]
+	path = god_of_walks
+	url = git@github.com:sougithub/god_of_walks.git
